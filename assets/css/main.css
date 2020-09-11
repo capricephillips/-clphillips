@@ -3580,7 +3580,7 @@ input, select, textarea {
 		cursor: default;
 		background-image :url("../../images/helix.jpg"); 
 		background-size: cover;
-		background-attachment:fixed:
+		background-attachment:fixed;
 
 		height: 100vh;
 		min-height: 35em;
